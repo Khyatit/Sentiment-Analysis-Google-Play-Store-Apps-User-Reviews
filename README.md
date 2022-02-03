@@ -6,10 +6,6 @@ This project I have applied the skills from Joining Data with pandas. This proje
 
 The data for this project was scraped from the Google Play website. While there are many popular datasets for Apple App Store, there aren't many for Google Play apps, which is partially due to the increased difficulty in scraping the latter as compared to the former.
 
-Helpful links:
-
-pandas read_csv()documentation
-pandas drop_duplicates()documentation
 
 ## 📺 Projects
 
